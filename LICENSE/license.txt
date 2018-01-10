@@ -1,2 +1,3 @@
 zmiany dla sprawdzenia konfliktu
-vol 2
+vol 2 
+dopisujemy trzecia linie
