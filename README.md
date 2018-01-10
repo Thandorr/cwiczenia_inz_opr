@@ -1,2 +1,2 @@
-Witamy serdecznie w programie. 
-Suchy & Osa
+Witamy serdecznie w programie!
+Suchy & Osa!
